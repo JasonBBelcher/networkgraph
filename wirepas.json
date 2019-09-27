@@ -1,0 +1,1568 @@
+{
+  "graph": {
+    "type": "wirepas_topology",
+    "nodes": [{
+        "id": "300",
+        "label": "300",
+        "metadata": {
+          "id": 300,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861831301072,
+          "longitude": -84.4622315429839,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SINK",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.7799999713897705,
+          "last_update": "2019-09-24T19:57:23.550Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "14922300",
+        "label": "14922300",
+        "metadata": {
+          "id": 14922300,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863021572508,
+          "longitude": -84.4624580179378,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.549999952316284,
+          "last_update": "2019-08-28T19:25:24.320Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "10001117",
+        "label": "10001117",
+        "metadata": {
+          "id": 10001117,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8862452566459,
+          "longitude": -84.4625483798007,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0199999809265137,
+          "last_update": "2019-09-24T19:57:37.496Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "8314201",
+        "label": "8314201",
+        "metadata": {
+          "id": 8314201,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863110160924,
+          "longitude": -84.4625805274792,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0999999046325684,
+          "last_update": "2019-09-24T19:57:12.494Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "8276506",
+        "label": "8276506",
+        "metadata": {
+          "id": 8276506,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861688963395,
+          "longitude": -84.4626614427403,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0299999713897705,
+          "last_update": "2019-09-24T19:57:04.449Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "11001111",
+        "label": "11001111",
+        "metadata": {
+          "id": 11001111,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863060408231,
+          "longitude": -84.462258973487,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.7899999618530273,
+          "last_update": "2019-09-24T19:57:34.505Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "10774165",
+        "label": "10774165",
+        "metadata": {
+          "id": 10774165,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8864029393527,
+          "longitude": -84.462204311452,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-24T19:57:10.503Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "9324918",
+        "label": "9324918",
+        "metadata": {
+          "id": 9324918,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861579995269,
+          "longitude": -84.4623318562487,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0199999809265137,
+          "last_update": "2019-09-24T19:57:15.414Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "15624250",
+        "label": "15624250",
+        "metadata": {
+          "id": 15624250,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861948195643,
+          "longitude": -84.4623222444894,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-24T19:56:58.019Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "6113214",
+        "label": "6113214",
+        "metadata": {
+          "id": 6113214,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8862646066324,
+          "longitude": -84.462571017113,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.130000114440918,
+          "last_update": "2019-09-24T19:57:37.542Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "643176",
+        "label": "643176",
+        "metadata": {
+          "id": 643176,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863572446448,
+          "longitude": -84.4624666361745,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.9800000190734863,
+          "last_update": "2019-09-24T19:57:37.566Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "6261229",
+        "label": "6261229",
+        "metadata": {
+          "id": 6261229,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863403282563,
+          "longitude": -84.4624947750652,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-24T19:57:37.599Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "15014183",
+        "label": "15014183",
+        "metadata": {
+          "id": 15014183,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861921572121,
+          "longitude": -84.4625617748816,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-24T19:57:37.620Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "12756524",
+        "label": "12756524",
+        "metadata": {
+          "id": 12756524,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8860852345576,
+          "longitude": -84.4625277855116,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-24T19:57:21.537Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "9868533",
+        "label": "9868533",
+        "metadata": {
+          "id": 9868533,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863310687683,
+          "longitude": -84.4623557549447,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-24T19:57:26.550Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "4140110",
+        "label": "4140110",
+        "metadata": {
+          "id": 4140110,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863388256459,
+          "longitude": -84.4620937885555,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.049999952316284,
+          "last_update": "2019-09-24T19:57:42.558Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "7537144",
+        "label": "7537144",
+        "metadata": {
+          "id": 7537144,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863328043665,
+          "longitude": -84.4621343836549,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-24T19:57:18.638Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "2866653",
+        "label": "2866653",
+        "metadata": {
+          "id": 2866653,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.8861741043013,
+          "longitude": -84.4626555175694,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.009999990463257,
+          "last_update": "2019-09-24T19:57:38.975Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "16508872",
+        "label": "16508872",
+        "metadata": {
+          "id": 16508872,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.886367969276,
+          "longitude": -84.4623573608329,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.059999942779541,
+          "last_update": "2019-09-24T19:57:34.468Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "15567610",
+        "label": "15567610",
+        "metadata": {
+          "id": 15567610,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8860243279272,
+          "longitude": -84.4626182681177,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-24T19:57:18.526Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "7010469",
+        "label": "7010469",
+        "metadata": {
+          "id": 7010469,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861457421127,
+          "longitude": -84.4624165184446,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.9700000286102295,
+          "last_update": "2019-09-24T19:57:30.627Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "7345928",
+        "label": "7345928",
+        "metadata": {
+          "id": 7345928,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8860887728201,
+          "longitude": -84.4624083727639,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.069999933242798,
+          "last_update": "2019-09-24T19:57:21.544Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "13950959",
+        "label": "13950959",
+        "metadata": {
+          "id": 13950959,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8844216206983,
+          "longitude": -84.4612743663296,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.940000057220459,
+          "last_update": "2019-09-24T19:56:45.980Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "10958989",
+        "label": "10958989",
+        "metadata": {
+          "id": 10958989,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8860567965465,
+          "longitude": -84.4626590466584,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.059999942779541,
+          "last_update": "2019-09-24T19:57:42.522Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "12623091",
+        "label": "12623091",
+        "metadata": {
+          "id": 12623091,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863822831413,
+          "longitude": -84.4621460992377,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.049999952316284,
+          "last_update": "2019-09-24T19:57:18.534Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "6605310",
+        "label": "6605310",
+        "metadata": {
+          "id": 6605310,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863173944631,
+          "longitude": -84.4621824233158,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-24T19:57:23.997Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "8628136",
+        "label": "8628136",
+        "metadata": {
+          "id": 8628136,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861623668491,
+          "longitude": -84.4621963822708,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.009999990463257,
+          "last_update": "2019-09-24T19:57:42.488Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "4188719",
+        "label": "4188719",
+        "metadata": {
+          "id": 4188719,
+          "network_id": 14210091,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.059999942779541,
+          "last_update": "2019-09-24T19:57:22.476Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "9599599",
+        "label": "9599599",
+        "metadata": {
+          "id": 9599599,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8860796469157,
+          "longitude": -84.4624456762346,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3.0799999237060547,
+          "last_update": "2019-09-24T19:57:12.525Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "12814513",
+        "label": "12814513",
+        "metadata": {
+          "id": 12814513,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863922058364,
+          "longitude": -84.4624843991541,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.049999952316284,
+          "last_update": "2019-09-24T19:57:37.553Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "11948984",
+        "label": "11948984",
+        "metadata": {
+          "id": 11948984,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863533384136,
+          "longitude": -84.4624329584393,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0199999809265137,
+          "last_update": "2019-09-24T19:57:42.584Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "11879583",
+        "label": "11879583",
+        "metadata": {
+          "id": 11879583,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863026298587,
+          "longitude": -84.4622783780058,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0799999237060547,
+          "last_update": "2019-09-24T19:57:26.475Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "14745883",
+        "label": "14745883",
+        "metadata": {
+          "id": 14745883,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8863237068319,
+          "longitude": -84.4622680044336,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0199999809265137,
+          "last_update": "2019-09-24T19:57:42.504Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "3617936",
+        "label": "3617936",
+        "metadata": {
+          "id": 3617936,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.8862558147152,
+          "longitude": -84.4622653379856,
+          "altitude": 20,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.009999990463257,
+          "last_update": "2019-09-23T21:05:50.024Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "7136891",
+        "label": "7136891",
+        "metadata": {
+          "id": 7136891,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.7058894593751,
+          "longitude": -84.6091482776137,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-23T21:05:30.612Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "12978595",
+        "label": "12978595",
+        "metadata": {
+          "id": 12978595,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.88456726074219,
+          "longitude": -84.46174621582031,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.950000047683716,
+          "last_update": "2019-09-23T21:05:54.550Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "8956104",
+        "label": "8956104",
+        "metadata": {
+          "id": 8956104,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.886158460646,
+          "longitude": -84.4623128080062,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.049999952316284,
+          "last_update": "2019-09-23T21:06:10.939Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "2853706",
+        "label": "2853706",
+        "metadata": {
+          "id": 2853706,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8861313769824,
+          "longitude": -84.4622895218666,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.069999933242798,
+          "last_update": "2019-09-24T19:57:10.488Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "8865181",
+        "label": "8865181",
+        "metadata": {
+          "id": 8865181,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.8862406958556,
+          "longitude": -84.4622333020115,
+          "altitude": 20,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": true,
+          "voltage": 3.0399999618530273,
+          "last_update": "2019-09-23T21:06:12.352Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "9531833",
+        "label": "9531833",
+        "metadata": {
+          "id": 9531833,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8845714877813,
+          "longitude": -84.4620463819991,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-23T21:05:15.540Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "10889938",
+        "label": "10889938",
+        "metadata": {
+          "id": 10889938,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.8843893064482,
+          "longitude": -84.4619902723223,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.950000047683716,
+          "last_update": "2019-09-23T21:06:04.542Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "15250456",
+        "label": "15250456",
+        "metadata": {
+          "id": 15250456,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.8845838849757,
+          "longitude": -84.4613758052399,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.950000047683716,
+          "last_update": "2019-09-23T21:05:33.027Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "9774033",
+        "label": "9774033",
+        "metadata": {
+          "id": 9774033,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8846786680257,
+          "longitude": -84.4617014870221,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.990000009536743,
+          "last_update": "2019-09-23T21:06:04.068Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "15325693",
+        "label": "15325693",
+        "metadata": {
+          "id": 15325693,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8842230141937,
+          "longitude": -84.461886520456,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.9700000286102295,
+          "last_update": "2019-09-23T21:06:06.633Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "13029669",
+        "label": "13029669",
+        "metadata": {
+          "id": 13029669,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8843341527162,
+          "longitude": -84.4615469248505,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.9800000190734863,
+          "last_update": "2019-09-24T19:57:18.504Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "3207035",
+        "label": "3207035",
+        "metadata": {
+          "id": 3207035,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.884429931640625,
+          "longitude": -84.4612808227539,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.8399999141693115,
+          "last_update": "2019-09-24T19:57:36.940Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "15382866",
+        "label": "15382866",
+        "metadata": {
+          "id": 15382866,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.884763233153,
+          "longitude": -84.4614225213111,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "HEADNODE",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 3,
+          "last_update": "2019-09-24T19:57:10.968Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "9261647",
+        "label": "9261647",
+        "metadata": {
+          "id": 9261647,
+          "network_id": 14210091,
+          "name": "",
+          "description": "ELA TAG",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.884552001953125,
+          "longitude": -84.4614486694336,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.8299999237060547,
+          "last_update": "2019-09-24T19:57:20.941Z",
+          "status": "ONLINE"
+        }
+      },
+      {
+        "id": "11722248",
+        "label": "11722248",
+        "metadata": {
+          "id": 11722248,
+          "network_id": 14210091,
+          "name": "",
+          "description": "Ruuvi with Location Tag",
+          "is_approved": false,
+          "is_virtual": false,
+          "latitude": 33.88451385498047,
+          "longitude": -84.4618148803711,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SUBNODE",
+          "positioning_role": "TAG",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.950000047683716,
+          "last_update": "2019-09-23T21:06:09.555Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "600",
+        "label": "600",
+        "metadata": {
+          "id": 600,
+          "network_id": 14210091,
+          "name": "",
+          "description": "",
+          "is_approved": true,
+          "is_virtual": false,
+          "latitude": 33.8845044935869,
+          "longitude": -84.4616406781047,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1,
+          "role": "SINK",
+          "positioning_role": "ANCHOR",
+          "is_relay": false,
+          "is_autorole": false,
+          "voltage": 2.809999942779541,
+          "last_update": "2019-09-23T16:25:32.557Z",
+          "status": "OFFLINE"
+        }
+      },
+      {
+        "id": "2866655",
+        "label": "2866655",
+        "metadata": {
+          "id": 2866655,
+          "network_id": 14210091,
+          "name": "New planning node",
+          "description": "This node can be used for planning, before installing the real node",
+          "is_approved": true,
+          "is_virtual": true,
+          "latitude": 33.7055617381919,
+          "longitude": -84.6092506984159,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1
+        }
+      },
+      {
+        "id": "286657",
+        "label": "286657",
+        "metadata": {
+          "id": 286657,
+          "network_id": 14210091,
+          "name": "New planning node",
+          "description": "This node can be used for planning, before installing the real node",
+          "is_approved": true,
+          "is_virtual": true,
+          "latitude": 33.7053217159396,
+          "longitude": -84.6089233936825,
+          "altitude": 0,
+          "pixel_location_x": -1,
+          "pixel_location_y": -1
+        }
+      }
+    ],
+    "edges": [{
+        "source": "14922300",
+        "target": "10001117",
+        "metadata": {
+          "quality": 94.90196228027344
+        }
+      },
+      {
+        "source": "8314201",
+        "target": "8276506",
+        "metadata": {
+          "quality": 91.76470947265625
+        }
+      },
+      {
+        "source": "11001111",
+        "target": "10774165",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "9324918",
+        "target": "15624250",
+        "metadata": {
+          "quality": 96.47058868408203
+        }
+      },
+      {
+        "source": "6113214",
+        "target": "10001117",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "643176",
+        "target": "6261229",
+        "metadata": {
+          "quality": 99.21568298339844
+        }
+      },
+      {
+        "source": "15014183",
+        "target": "12756524",
+        "metadata": {
+          "quality": 96.47058868408203
+        }
+      },
+      {
+        "source": "9868533",
+        "target": "10774165",
+        "metadata": {
+          "quality": 97.2549057006836
+        }
+      },
+      {
+        "source": "4140110",
+        "target": "7537144",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "2866653",
+        "target": "300",
+        "metadata": {
+          "quality": 99.21568298339844
+        }
+      },
+      {
+        "source": "6261229",
+        "target": "8314201",
+        "metadata": {
+          "quality": 78.82353210449219
+        }
+      },
+      {
+        "source": "16508872",
+        "target": "10774165",
+        "metadata": {
+          "quality": 94.11764526367188
+        }
+      },
+      {
+        "source": "15567610",
+        "target": "7010469",
+        "metadata": {
+          "quality": 94.50980377197266
+        }
+      },
+      {
+        "source": "7345928",
+        "target": "13950959",
+        "metadata": {
+          "quality": 98.03921508789062
+        }
+      },
+      {
+        "source": "7010469",
+        "target": "300",
+        "metadata": {
+          "quality": 71.37255096435547
+        }
+      },
+      {
+        "source": "10958989",
+        "target": "8276506",
+        "metadata": {
+          "quality": 96.86274719238281
+        }
+      },
+      {
+        "source": "12623091",
+        "target": "6605310",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "8628136",
+        "target": "4188719",
+        "metadata": {
+          "quality": 99.21568298339844
+        }
+      },
+      {
+        "source": "8276506",
+        "target": "7010469",
+        "metadata": {
+          "quality": 95.68627166748047
+        }
+      },
+      {
+        "source": "9599599",
+        "target": "7010469",
+        "metadata": {
+          "quality": 96.07843017578125
+        }
+      },
+      {
+        "source": "12756524",
+        "target": "7010469",
+        "metadata": {
+          "quality": 98.03921508789062
+        }
+      },
+      {
+        "source": "12814513",
+        "target": "10001117",
+        "metadata": {
+          "quality": 61.960784912109375
+        }
+      },
+      {
+        "source": "11948984",
+        "target": "10774165",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "7537144",
+        "target": "9868533",
+        "metadata": {
+          "quality": 86.66666412353516
+        }
+      },
+      {
+        "source": "11879583",
+        "target": "9868533",
+        "metadata": {
+          "quality": 83.92156982421875
+        }
+      },
+      {
+        "source": "10001117",
+        "target": "15014183",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "10774165",
+        "target": "12623091",
+        "metadata": {
+          "quality": 97.64705657958984
+        }
+      },
+      {
+        "source": "14745883",
+        "target": "10774165",
+        "metadata": {
+          "quality": 98.4313735961914
+        }
+      },
+      {
+        "source": "6605310",
+        "target": "300",
+        "metadata": {
+          "quality": 79.60784149169922
+        }
+      },
+      {
+        "source": "3617936",
+        "target": "300",
+        "metadata": {
+          "quality": 97.64705657958984
+        }
+      },
+      {
+        "source": "7136891",
+        "target": "300",
+        "metadata": {
+          "quality": 98.82353210449219
+        }
+      },
+      {
+        "source": "12978595",
+        "target": "7136891",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "8956104",
+        "target": "7136891",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "2853706",
+        "target": "4188719",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "8865181",
+        "target": "7136891",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "4188719",
+        "target": "300",
+        "metadata": {
+          "quality": 99.21568298339844
+        }
+      },
+      {
+        "source": "15624250",
+        "target": "300",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "9531833",
+        "target": "300",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "10889938",
+        "target": "300",
+        "metadata": {
+          "quality": 98.03921508789062
+        }
+      },
+      {
+        "source": "15250456",
+        "target": "300",
+        "metadata": {
+          "quality": 99.21568298339844
+        }
+      },
+      {
+        "source": "9774033",
+        "target": "300",
+        "metadata": {
+          "quality": 96.07843017578125
+        }
+      },
+      {
+        "source": "15325693",
+        "target": "9531833",
+        "metadata": {
+          "quality": 99.60784149169922
+        }
+      },
+      {
+        "source": "13029669",
+        "target": "300",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "3207035",
+        "target": "2866653",
+        "metadata": {
+          "quality": 94.90196228027344
+        }
+      },
+      {
+        "source": "15382866",
+        "target": "300",
+        "metadata": {
+          "quality": 98.03921508789062
+        }
+      },
+      {
+        "source": "9261647",
+        "target": "2866653",
+        "metadata": {
+          "quality": 96.86274719238281
+        }
+      },
+      {
+        "source": "11722248",
+        "target": "10889938",
+        "metadata": {
+          "quality": 100
+        }
+      },
+      {
+        "source": "13950959",
+        "target": "300",
+        "metadata": {
+          "quality": 98.82353210449219
+        }
+      }
+    ]
+  }
+}

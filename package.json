@@ -1,0 +1,16 @@
+{
+  "name": "d3sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.12.0",
+    "moment": "^2.24.0",
+    "utm": "^1.1.1"
+  }
+}
